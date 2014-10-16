@@ -1,0 +1,12 @@
+<h1 style="color:yellow"> Добро пожаловать на сайт! </h1>
+<FORM action="/log" align="center" method="post">
+	<h2> Registration </h2>
+	
+    <P> 
+    
+    Name: <INPUT type="text" id="FirstName" name="name" ><BR>
+    Sign up: <INPUT type="text" name="login"><BR>
+    Password: <INPUT type="password" name="password" ><BR>
+    <INPUT type="submit" value="Log in" method="get" > <INPUT type="reset">
+    </P>
+ </FORM>

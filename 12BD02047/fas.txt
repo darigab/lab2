@@ -1,0 +1,132 @@
+<html>
+<TITLE> Kazakhstan Fashion Portal </title>
+
+
+
+<link rel="stylesheet" type="text/css" href="C:/Users/Administrator/Desktop/uni/HtmlНовый текстовый документ.css" />
+
+<body  bgcolor="#2F4F4F">
+
+
+<table class="style_1" >
+<tbody>
+<tr> <td width=150> <a href="/fas" 
+				title="Главная страница нашего сайта"> 
+				<font color="black">
+				Главная </font></a>
+     <td height=40>     
+	<td width=200> 
+
+<div>
+<object data="plain.txt" type="text/plain"
+width="100%" style="height: 10em">
+<a href="/reg">Регистрация</a>
+</object>
+</div>
+
+
+	<td width=200> <a href="/news"
+			title="News">
+			<font color="black">
+			News </font></a>
+			
+	<td width=200> <a href="/log"
+			title="Непредсказуемые звезды и стильные блоггершы">
+			<font color="black">
+			LOOK </font></a>
+	<td width=200> <a href="C:/Users/Administrator/Desktop/uni/Красота и здоровье.html"
+			title="Полезные советы">
+			<font color="black">
+			Красота и здоровье </font></a>
+	<td width=200> <a href="C:/Users/Administrator/Desktop/uni/Видео.html"
+			title="Интересное видео">
+			<font color="black">
+			Видео </font></a>
+	<td width=128>  <a href="C:/Users/Administrator/Desktop/uni/Контакты.html" 
+			title="Свяжитесь с нами"> 
+			<font color="black">
+			Контакты </font></a>
+			
+</td></td></td></td></td></td>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+<h1 onmousedown="myFunction3(this,'red')" onmouseup="myFunction(this,'green')"> Fashion News Blog
+</h1>
+
+
+<table align="center" border="0" width="90%" cellpadding="0" cellspacing="0">
+	<tbody>
+	<tr>
+	<td width="50%" valign="top" style="padding-right:20px">
+		<font color="black">
+		
+	Some text is going to be here
+	
+		</font>
+	</td>
+	
+	<td width="40%" valign="top" style="padding-left:13px">
+ 		<font color="black">
+ 		%space%
+	
+		</font>
+	</td>
+	</tr>
+
+	</tbody>
+
+</table>
+
+
+<script>
+function bigImg(x)
+{
+x.style.height="650px";
+x.style.width="450px";
+}
+
+function normalImg(x)
+{
+x.style.height="612px";
+x.style.width="407px";
+}
+</script>
+
+
+
+<img onmouseover="bigImg(this)" onmouseout="normalImg(this)" border="0"  src="laRiya2.jpg" vspace="30" hspace="450">
+
+<a href="http://yes.com.ru/" target="_blank">
+<img src="C:/Users/Administrator/Desktop/uni/yes.jpg" vspace="10" hspace="15" ></a>
+<a href="http://www.worldfashion.kz/"  target="_blank">
+<img src="C:/Users/Administrator/Desktop/uni/world_fashion.jpg" vspace="10" hspace="15"></a>
+<a href="http://www.avantmodels.ru/" target="_blank">
+<img src="C:/Users/Administrator/Desktop/uni/avant.jpg" vspace="10" hspace="15"></a>
+<a href="http://www.cosmoshopping.ru/" target="_blank">
+<img src="C:/Users/Administrator/Desktop/uni/shopping.jpg" vspace="10" hspace="15"></a>
+<a href="http://www.lookatme.ru/" target="_blank">
+<img src="C:/Users/Administrator/Desktop/uni/look_at_me.jpg" vspace="10" hspace="15"></a>
+<a href="http://www.starlook.ru/" target="_blank">
+<img src="C:/Users/Administrator/Desktop/uni/starlook.jpg" vspace="10" hspace="15"></a>
+<a href="http://pro-fashion.kz/" target="_blank">
+<img src="C:/Users/Administrator/Desktop/uni/pro_fashion.jpg" vspace="10" hspace="15">
+<a href="http://graziamagazine.ru/" target="_blank">
+<img src="C:/Users/Administrator/Desktop/uni/grazia.jpg" vspace="10" hspace="15"></a>
+
+
+
+<p>Number of images:
+<script>
+document.write(document.images.length);
+</script></p>
+
+
+
+</body>
+
+</html>
